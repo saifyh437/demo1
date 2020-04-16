@@ -12,7 +12,11 @@ public class EurekaServerApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+
+	// comment 2
+
 	//comment 3
+
 	// comment
 
 }
